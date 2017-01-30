@@ -1,4 +1,4 @@
-# From Rome to Arabia - Assignment 7
+# From Rome to Arabia
 #
 # Written by Neo Chung-kit YIU, 12 Jul 2016
 
