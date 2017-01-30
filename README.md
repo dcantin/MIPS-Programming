@@ -1,7 +1,7 @@
 # MIPS-Programming
 Some works on MIPS programming using SPIM:
 
-1. Lottery Odds Program
+Task One. Lottery Odds Program
 
 There are many lottery schemes available across the world. Write a MIPS Assembly language program that will calculate the odds of winning the Jackpot prize.
 
@@ -23,7 +23,7 @@ The subroutine example on the following page, calculates the Factorial of an inp
 	
 ------------------------------------------------------------------------------------
 
-2. From Rome to Arabia
+Task Two: From Rome to Arabia
 
 Write a correct program in MIPS - QtSpim assembly language that:
 
